@@ -41,7 +41,7 @@
     "@material/theme": "^4.0.0",
     "@material/typography": "^4.0.0",
     "audiobuffer-to-wav": "^1.0.0",
-    "bowser": "^2.9.0",
+    "bowser": "^2.11.0",
     "core-js": "^3.6.4",
     "ext-components": "dessant/ext-components#^0.4.0",
     "ext-contribute": "dessant/ext-contribute#^0.3.3",

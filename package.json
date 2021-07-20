@@ -49,7 +49,7 @@
     "typeface-roboto": "^0.0.75",
     "uuid": "^3.4.0",
     "vue": "^2.6.11",
-    "webextension-polyfill": "^0.6.0"
+    "webextension-polyfill": "^0.8.0"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",

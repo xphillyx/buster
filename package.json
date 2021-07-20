@@ -42,7 +42,7 @@
     "@material/typography": "^4.0.0",
     "audiobuffer-to-wav": "^1.0.0",
     "bowser": "^2.9.0",
-    "core-js": "^3.6.4",
+    "core-js": "^3.15.1",
     "ext-components": "dessant/ext-components#^0.4.0",
     "ext-contribute": "dessant/ext-contribute#^0.3.3",
     "storage-versions": "dessant/storage-versions#^0.2.6",

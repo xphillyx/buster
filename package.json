@@ -48,7 +48,7 @@
     "storage-versions": "dessant/storage-versions#^0.2.6",
     "typeface-roboto": "^0.0.75",
     "uuid": "^3.4.0",
-    "vue": "^2.6.11",
+    "vue": "^3.0.0",
     "webextension-polyfill": "^0.6.0"
   },
   "devDependencies": {
